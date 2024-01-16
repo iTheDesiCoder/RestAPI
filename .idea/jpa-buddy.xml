@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" newRepositoryParent="org.springframework.data.jpa.repository.JpaRepository">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="renamerInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="8e6a8902-697e-42ab-9889-a0bc3492f4c2" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/com/springboot/restapi/entity/JPA" />
+    <option name="packageNameForExtractSuperclass" value="com.springboot.restapi.entity.mapper" />
+  </component>
+</project>
